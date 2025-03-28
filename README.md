@@ -15,6 +15,7 @@
 - **Оптимизация проектов**: Корректировка промптов, базы знаний для ИИ, для уменьшения затрат и увеличения конверсии.
 
 ### Мои проекты
+- [**Автоматическая публикация постов в Wordpress**](https://github.com/VladimirMenshikov/Autoposting-WP)
 - [**Интеграция AI ассистента на вебсайт для записи клиента на консультацию**](https://github.com/VladimirMenshikov/Integrating-AI-assistant-into-a-website)
 - [**Ассистент разработан для взаимодействия с клиентами**](https://github.com/VladimirMenshikov/AI-Assistant-in-Telegram)
 - [**Веб-приложение с использованием Flask, реализующее функционал генерации постов и изображений**](https://github.com/VladimirMenshikov/WEB-APP-SMM-assistant)
