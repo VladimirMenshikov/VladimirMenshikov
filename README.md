@@ -15,6 +15,7 @@
 - **Оптимизация проектов**: Корректировка промптов, базы знаний для ИИ, для уменьшения затрат и увеличения конверсии.
 
 ### Мои проекты
+- [**Автоматическая публикация и генерация постов в Telegram**](https://github.com/VladimirMenshikov/Smart-Telegram-Content-Bot)
 - [**Проверка подписки - модерация телеграмм канала**](https://github.com/VladimirMenshikov/SubMod-AI-Moderation-Bot)
 - [**Интеллектуальный ассистент для приёма заявок на звонок**](https://github.com/VladimirMenshikov/Intelligent-assistant-for-accepting-applications)
 - [**Автоматическая публикация постов в Wordpress**](https://github.com/VladimirMenshikov/Autoposting-WP)
