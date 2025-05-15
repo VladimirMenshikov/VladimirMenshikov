@@ -15,6 +15,7 @@
 - **Оптимизация проектов**: Корректировка промптов, базы знаний для ИИ, для уменьшения затрат и увеличения конверсии.
 
 ### Мои проекты
+- [**Telegram Legal Bot: AI-ассистент по недвижимости**](https://github.com/VladimirMenshikov/Telegram-Legal-Bot)
 - [**Консультант который отвечает на текстовые и голосовые запросы**](https://github.com/VladimirMenshikov/AI-Voice-Text-Consultant)
 - [**Автоматическая публикация и генерация постов в Telegram**](https://github.com/VladimirMenshikov/Smart-Telegram-Content-Bot)
 - [**Проверка подписки - модерация телеграмм канала**](https://github.com/VladimirMenshikov/SubMod-AI-Moderation-Bot)
