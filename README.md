@@ -15,7 +15,7 @@
 - **Оптимизация проектов**: Корректировка промптов, базы знаний для ИИ, для уменьшения затрат и увеличения конверсии.
 
 ### Мои проекты
-- [**SEO-статьи в WordPress из RSS с помощью AI без ручной работы**](https://github.com/VladimirMenshikov/Publish_Posts_To_Wordpress/blob/main/README.md)
+- [**SEO-статьи в WordPress из RSS с помощью AI без ручной работы**](README.md)
 - [**Автоматизированная публикация SEO-статей в WordPress**](https://github.com/VladimirMenshikov/Publish_Posts_To_Wordpress/blob/main/README.md)
 - [**n8n Automated Backup & Documentation**](https://github.com/VladimirMenshikov/n8n-Automated-Backup-Documentation/blob/main/README.md)
 - [**Telegram Legal Bot: AI-ассистент по недвижимости**](https://github.com/VladimirMenshikov/Telegram-Legal-Bot)
