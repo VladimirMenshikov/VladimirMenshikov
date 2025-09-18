@@ -17,6 +17,7 @@
 - **Вайб-кодинг (Vibe Coding)**: Активно применяю современные ИИ-инструменты (такие как GitHub Copilot, ChatGPT, Claude и другие) для ускорения разработки, генерации кода, рефакторинга и поиска решений. Работаю в симбиозе с нейросетями — используя их как «партнёра по коду», чтобы сохранять высокий ритм разработки. Это позволяет быстрее прототипировать, меньше тратить время на рутину и сосредоточиться на архитектуре и логике.
 
 ### Мои проекты
+- [**Интеллектуальные чат-боты для персонального питания и фитнеса (*Вайб-кодинг*)**](https://github.com/VladimirMenshikov/Fitness-and-Nutry-bots/blob/main/README.md)
 - [**Автоматизированная система создания и публикации контента с интеллектуальной обработкой RSS-лент**](https://github.com/VladimirMenshikov/ContentFlow_Factory/blob/main/README.md)
 - [**Бот менеджер подписки на публикации блога**](https://github.com/VladimirMenshikov/WordPress-Blog-Telegram-Bot/blob/main/README.md)
 - [**SEO-статьи в WordPress из RSS с помощью AI без ручной работы**](https://github.com/VladimirMenshikov/RSS-to-WordPress-SEO-Article-Automation/blob/main/README.md)
