@@ -68,7 +68,9 @@ MS SQL Server, T-SQL, PostgreSQL | Reporting Services
 
 ### 🤖 Telegram-боты
 - [**Бот менеджер подписки на публикации блога**](https://github.com/VladimirMenshikov/WordPress-Blog-Telegram-Bot/blob/main/README.md)
+  - Автоматизация уведомлений о новых публикациях WordPress через Telegram • Управление подписками
 - [**Консультант который отвечает на текстовые и голосовые запросы**](https://github.com/VladimirMenshikov/AI-Voice-Text-Consultant)
+  - AI-консультант с поддержкой текста и голоса, обновляемой базой знаний из PDF и интеграцией Pinecone
 - [**Telegram Legal Bot: AI-ассистент по недвижимости**](https://github.com/VladimirMenshikov/Telegram-Legal-Bot)
 - [**Телеграмм бот для озвучки введённого текста с выбором голоса озвучки**](https://github.com/VladimirMenshikov/Telegram-bot-for-text-voicing)
 - [**Чат-бот телеграмм, который с помощью нейросетей помогает руководителю**](https://github.com/VladimirMenshikov/ChatBot-AI-Assistant-For-Manager)
