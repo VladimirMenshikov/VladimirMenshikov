@@ -81,7 +81,7 @@ MS SQL Server, T-SQL, PostgreSQL | Reporting Services
 
 ## 📬 Контакты
 - 📧 Email: p9935879262@yandex.ru
-- 📱 Telegram: @your_telegram
-- 💼 hh.ru: [Ссылка на резюме]
+- 📱 Telegram: [@VM_AI](https://t.me/VM_AI)
+- 🔵 ВКонтакте: [vk.com/vl_menshikov](https://vk.com/vl_menshikov)
 
 **Открыт для проектов и сотрудничества в области AI и автоматизации**
