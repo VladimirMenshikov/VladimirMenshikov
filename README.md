@@ -121,6 +121,8 @@ MS SQL Server, T-SQL, PostgreSQL | Reporting Services
   - Веб-приложение для SMM: генерация постов и изображений с помощью ИИ
 
 ### 💿 Инфраструктура и DevOps
+- [**Персональный AI-наставник для обучения с использованием YandexGPT и Perplexity API.**](https://github.com/VladimirMenshikov/TG-bots_your-personal-mentor/blob/main/README.md)
+   - Помогает в изучении темы, подготавливает свежие данные, проверяет успешность обучения, отвечает на вопросы
 - [**Автоматический бот на Python для приветствия новых подписчиков**](https://github.com/VladimirMenshikov/Automatic-welcome-bot-for-new-subscribers-/blob/main/README.md)
   - Приветствует новых пользователей при подписке на канал, автоматически отправляя приветственное сообщение и необходимые файлы
 - [**Установка LLM, StableDiffusion, n8n и Supabase на локальном сервере**](https://github.com/VladimirMenshikov/local-LLM-server/blob/main/README.md)
