@@ -122,7 +122,7 @@ MS SQL Server, T-SQL, PostgreSQL | Reporting Services
 
 ### 💿 Инфраструктура и DevOps
 - [**Таймер задач для Linux**](https://github.com/VladimirMenshikov/worked-timer/blob/master/README.md)
-   - 
+   - Трекер рабочего времени для Linux Mint. Живёт в системном трее
 - [**Персональный AI-наставник для обучения с использованием YandexGPT и Perplexity API.**](https://github.com/VladimirMenshikov/TG-bots_your-personal-mentor/blob/main/README.md)
    - Помогает в изучении темы, подготавливает свежие данные, проверяет успешность обучения, отвечает на вопросы
 - [**Автоматический бот на Python для приветствия новых подписчиков**](https://github.com/VladimirMenshikov/Automatic-welcome-bot-for-new-subscribers-/blob/main/README.md)
