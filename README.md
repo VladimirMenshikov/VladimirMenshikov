@@ -12,6 +12,7 @@
 - [О себе](#приветствую-)
 - [Технологический стек](#-технологический-стек)
 - [Проекты](#-мои-проекты)
+  - [Вайб-кодинг](#-вайб-кодинг)
   - [Автоматизация бизнес-процессов](#-автоматизация-бизнес-процессов)
   - [Telegram-боты](#-telegram-боты)
   - [Контент и SEO](#-контент-и-seo)
@@ -23,12 +24,13 @@
 
 ## Приветствую 👋
 
-Я **Prompt-инженер** и **AI-разработчик** с 25-летним опытом в ИТ и 3 года в генеративном ИИ.
+Я **Prompt-инженер**, **Вайбкодер** и **AI-разработчик** с 25-летним опытом в ИТ и 3 года в генеративном ИИ.
 
 **Специализация:**  
 Создание AI-ассистентов, автоматизация бизнес-процессов через нейросети, интеграция LLM в существующие системы.
 
-**Что я делаю:**
+**Что я делаю:**  
+- 🦾 Создаю веб-, виндовс- и линукс- приложения с помощью вайбкода
 - 🤖 Разрабатываю GPT/Claude-ассистенты для продаж, поддержки и контента
 - ⚙️ Автоматизирую рутину через n8n + AI (экономия 60-80% времени)
 - 🔗 Интегрирую AI в бизнес через API и no-code платформы
@@ -47,7 +49,7 @@ ChatGPT, GigaChat, Claude, YandexGPT, OpenAI API | Midjourney, Stable Diffusion,
 n8n, Airtable, Telegram Bots API, Supabase | REST API, Webhooks
 
 ### Development
-Python, JavaScript | Vibe Coding (Claude, Cursor, GitHub Copilot)
+Vibe Coding (Claude Code, Cursor, GitHub Copilot) | Python, JavaScript | NestJS, Flutter, Prisma
 
 ### Data & Backend
 MS SQL Server, T-SQL, PostgreSQL | Reporting Services
@@ -62,6 +64,18 @@ MS SQL Server, T-SQL, PostgreSQL | Reporting Services
 ---
 
 ## 🚀 Мои проекты
+
+### 🦾 Вайб-кодинг
+
+Проекты, спроектированные и собранные end-to-end через вайб-кодинг (Claude Code, Cursor) — от постановки задачи до рабочих сборок.
+
+- [**Notebook App — кроссплатформенное приложение для заметок, задач и совместной работы**](https://github.com/VladimirMenshikov/notebook-app-release/blob/release/README.md)
+  - Заметки, задачи с подзадачами, вопросы и желания + группы с общими записями и приглашениями по email. Бэкенд на NestJS + Prisma + PostgreSQL, клиент на Flutter (Android / Windows / Linux), 2FA, вход по отпечатку, авто-обновление APK.  
+  - [**Таймер задач для Linux**](https://github.com/VladimirMenshikov/worked-timer/blob/master/README.md)
+   - Трекер рабочего времени для Linux Mint. Живёт в системном трее
+  - 📥 [Скачать готовые сборки (APK / DEB / Windows) →](https://github.com/VladimirMenshikov/notebook-app-release)
+- [**Интеллектуальные чат-боты для персонального питания и фитнеса**](https://github.com/VladimirMenshikov/Fitness-and-Nutry-bots/blob/main/README.md)
+  - ИИ-ассистенты для фитнеса и питания: персонализированные рекомендации в Telegram
 
 ### 📊 Автоматизация бизнес-процессов
 - [**Автоматический AI-ассистент для анализа резюме**](https://github.com/VladimirMenshikov/Automatic-AI-Assistant-for-Resume-Analysis/blob/main/README.md)
@@ -107,8 +121,6 @@ MS SQL Server, T-SQL, PostgreSQL | Reporting Services
 ### 💬 AI-ассистенты для клиентов
 - [**YouTube AI Analyzer: Автоматический аналитик видеоконтента**](https://github.com/VladimirMenshikov/YouTube-AI-Analyzer-/blob/main/README.md)
   - Автоанализ YouTube-видео: ИИ изучает контент, выделяет ключевые темы и генерирует аналитику
-- [**Интеллектуальные чат-боты для персонального питания и фитнеса (*Вайб-кодинг*)**](https://github.com/VladimirMenshikov/Fitness-and-Nutry-bots/blob/main/README.md)
-  - ИИ-ассистенты для фитнеса и питания: персонализированные рекомендации в Telegram
 - [**Проверка подписки - модерация телеграмм канала**](https://github.com/VladimirMenshikov/SubMod-AI-Moderation-Bot)
   - Бот-модератор для Telegram: автоматическая проверка подписок и управление доступом к каналу
 - [**Интеллектуальный ассистент для приёма заявок на звонок**](https://github.com/VladimirMenshikov/Intelligent-assistant-for-accepting-applications)
