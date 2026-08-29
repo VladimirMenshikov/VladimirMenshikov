@@ -71,8 +71,8 @@ MS SQL Server, T-SQL, PostgreSQL | Reporting Services
 
 - [**Notebook App — кроссплатформенное приложение для заметок, задач и совместной работы**](https://github.com/VladimirMenshikov/notebook-app-release/blob/release/README.md)
   - Заметки, задачи с подзадачами, вопросы и желания + группы с общими записями и приглашениями по email. Бэкенд на NestJS + Prisma + PostgreSQL, клиент на Flutter (Android / Windows / Linux), 2FA, вход по отпечатку, авто-обновление APK.  
-  - [**Таймер задач для Linux**](https://github.com/VladimirMenshikov/worked-timer/blob/master/README.md)
-   - Трекер рабочего времени для Linux Mint. Живёт в системном трее
+- [**Таймер задач для Linux**](https://github.com/VladimirMenshikov/worked-timer/blob/master/README.md)
+  - Трекер рабочего времени для Linux Mint. Живёт в системном трее
   - 📥 [Скачать готовые сборки (APK / DEB / Windows) →](https://github.com/VladimirMenshikov/notebook-app-release)
 - [**Интеллектуальные чат-боты для персонального питания и фитнеса**](https://github.com/VladimirMenshikov/Fitness-and-Nutry-bots/blob/main/README.md)
   - ИИ-ассистенты для фитнеса и питания: персонализированные рекомендации в Telegram
